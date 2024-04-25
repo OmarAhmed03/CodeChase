@@ -19,11 +19,11 @@ void watermelon(int kilos){
     //return 0;
 }
 
-/*
+
 int main(){
    int kilos;
    cout<<"Enter The weight"<<endl;
    cin>>kilos;
    watermelon(kilos);
 }
-*/
+
